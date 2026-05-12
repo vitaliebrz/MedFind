@@ -1,0 +1,181 @@
+[
+    {
+        "city": "Iași",
+        "hospitals": [
+            {
+                "id": 3,
+                "name": "Spitalul Clinic Județean de Urgență Iași",
+                "image": "https://www.radioiasi.ro/wp-content/uploads/2020/11/urgente-iasi-spital-sfantul-spiridon.jpg",
+                "address": "bd. Independenței 1, Iași 700111, România",
+                "contact": {
+                    "phone": "+40 232 240 822",
+                    "email": "contact@spitalulsfspiridon.ro",
+                    "website": "https://www.spitalulsfspiridon.ro"
+                }
+            },
+            {
+                "id": 4,
+                "name": "Spitalul Clinic de Recuperare Iași",
+                "image": "https://adminis.ro/wp-content/uploads/2024/11/spit.jpg",
+                "address": "str. Pantelimon Halipa 14, Iași 700661, România",
+                "contact": {
+                    "phone": "+40 232 930",
+                    "email": "contact@recuperare-iasi.ro",
+                    "website": "https://www.recuperare-iasi.ro"
+                }
+            }
+        ]
+    },
+    {
+        "city": "București",
+        "hospitals": [
+            {
+                "id": 5,
+                "name": "Spitalul Universitar de Urgență București",
+                "image": "https://www.bucuresti.ro/tthumbs/175/800x600.jpg",
+                "address": "splaiul Independenței 169, București 050098, România",
+                "contact": {
+                    "phone": "+40 21 318 0522",
+                    "email": "secretariat@suub.ro",
+                    "website": "https://www.suub.ro"
+                }
+            },
+            {
+                "id": 6,
+                "name": "Spitalul Clinic Colțea",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Spitalul_Col%C8%9Bea_%28noaptea%29.jpg",
+                "address": "bd. I.C. Brătianu 1, București 030171, România",
+                "contact": {
+                    "phone": "+40 21 314 1619",
+                    "email": "office@spitalulcoltea.ro",
+                    "website": "https://www.spitalulcoltea.ro"
+                }
+            }
+        ]
+    },
+    {
+        "city": "Orhei",
+        "hospitals": [
+            {
+                "id": 7,
+                "name": "Spitalul Raional Orhei",
+                "image": "https://gazetadechisinau.md/wp-content/uploads/2021/04/image-1024x544.png",
+                "address": "str. Mișcării 27, Orhei 3501, Republica Moldova",
+                "contact": {
+                    "phone": "+373 235 20 777",
+                    "email": "spital.orhei@ms.md",
+                    "website": "https://spital-orhei.md"
+                }
+            },
+            {
+                "id": 8,
+                "name": "Centrul Medicilor de Familie Orhei",
+                "image": "https://cs1orhei.md/images/content/despre_noi/centrala.jpg",
+                "address": "str. Vasile Lupu 42, Orhei 3501, Republica Moldova",
+                "contact": {
+                    "phone": "+373 235 22 350",
+                    "email": "cmf.orhei@ms.md",
+                    "website": "https://cmf-orhei.md"
+                }
+            }
+        ]
+    },
+    {
+    "city": "Chișinău",
+        "hospitals": [
+            {
+                "id": 1,
+                "name": "Spitalul Clinic Republican",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/T._Mosneaga_Republican_Clinical_Hospital_2023.jpg/500px-T._Mosneaga_Republican_Clinical_Hospital_2023.jpg",
+                "address": "str. Testemițanu 29, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 403 010",
+                    "email": "scr@ms.md",
+                    "website": "https://scr.md"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Institutul de Medicină Urgentă",
+                "image": "https://urgente.usmf.md/sites/default/files/styles/768x430/public/2024-08/img8041t1.jpg.jpeg?itok=slHIxNnY",
+                "address": "str. Toma Ciorbă 1, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 250 290",
+                    "email": "imu@ms.md",
+                    "website": "https://imu.md"
+                }
+            },
+            {
+                "id": 12,
+                "name": "Institutul de Medicină Urgentă",
+                "image": "https://urgente.usmf.md/sites/default/files/styles/768x430/public/2024-08/img8041t1.jpg.jpeg?itok=slHIxNnY",
+                "address": "str. Toma Ciorbă 1, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 250 290",
+                    "email": "imu@ms.md",
+                    "website": "https://imu.md"
+                }
+            },
+            {
+                "id": 13,
+                "name": "Institutul de Medicină Urgentă",
+                "image": "https://urgente.usmf.md/sites/default/files/styles/768x430/public/2024-08/img8041t1.jpg.jpeg?itok=slHIxNnY",
+                "address": "str. Toma Ciorbă 1, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 250 290",
+                    "email": "imu@ms.md",
+                    "website": "https://imu.md"
+                }
+            },
+            {
+                "id": 14,
+                "name": "Institutul de Medicină Urgentă",
+                "image": "https://urgente.usmf.md/sites/default/files/styles/768x430/public/2024-08/img8041t1.jpg.jpeg?itok=slHIxNnY",
+                "address": "str. Toma Ciorbă 1, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 250 290",
+                    "email": "imu@ms.md",
+                    "website": "https://imu.md"
+                }
+            },
+            {
+                "id": 15,
+                "name": "Institutul de Medicină Urgentă",
+                "image": "https://urgente.usmf.md/sites/default/files/styles/768x430/public/2024-08/img8041t1.jpg.jpeg?itok=slHIxNnY",
+                "address": "str. Toma Ciorbă 1, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 250 290",
+                    "email": "imu@ms.md",
+                    "website": "https://imu.md"
+                }
+            }
+        ]
+    },
+    {
+        "city": "Tiraspol",
+        "hospitals": [
+            {
+                "id": 9,
+                "name": "Spitalul Clinic Republican Tiraspol",
+                "image": "https://www.moldpres.md/uploads/0/images/large/watermark_990a848f8f3e33210195d64d3ffc574d_dsc-7817-resize.jpg",
+                "address": "str. Odessa 66, Tiraspol 278000, Transnistria",
+                "contact": {
+                    "phone": "+373 533 29 744",
+                    "email": "hospital@tirasmed.md",
+                    "website": "https://tirasmed.md"
+                }
+            },
+            {
+                "id": 10,
+                "name": "Centrul Perinatal Tiraspol",
+                "image": "https://www.mama-copilul.md/images/sectii/centru_perinat_III/3.jpg",
+                "address": "str. Lenina 19, Tiraspol 278000, Transnistria",
+                "contact": {
+                    "phone": "+373 533 62 100",
+                    "email": "perinatal@tirasmed.md",
+                    "website": "https://perinatal-tiraspol.md"
+                }
+            }
+        ]
+    }
+]
