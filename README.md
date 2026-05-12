@@ -1,5 +1,7 @@
 # MedFind
 
+**Live:** [findclinic.netlify.app](https://findclinic.netlify.app)
+
 A web application for quickly finding hospitals in Moldova and Romania — with addresses, phone numbers, and direct links, based on the user's location.
 
 ## Features
