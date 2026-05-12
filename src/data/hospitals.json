@@ -1,54 +1,5 @@
 [
     {
-        "city": "Chișinău",
-        "hospitals": [
-            {
-                "id": 1,
-                "name": "Spitalul Clinic Republican Timofei Moșneaga",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/T._Mosneaga_Republican_Clinical_Hospital_2023.jpg/500px-T._Mosneaga_Republican_Clinical_Hospital_2023.jpg",
-                "address": "str. Testemițanu 29, Chișinău, Republica Moldova",
-                "contact": {
-                    "phone": "+373 22 403 010",
-                    "email": "scr@ms.md",
-                    "website": "https://scr.md"
-                }
-            },
-            {
-                "id": 2,
-                "name": "Institutul de Medicină Urgentă",
-                "image": "https://urgente.usmf.md/sites/default/files/styles/768x430/public/2024-08/img8041t1.jpg.jpeg?itok=slHIxNnY",
-                "address": "str. Toma Ciorbă 1, Chișinău, Republica Moldova",
-                "contact": {
-                    "phone": "+373 22 250 290",
-                    "email": "imu@ms.md",
-                    "website": "https://imu.md"
-                }
-            },
-            {
-                "id": 3,
-                "name": "Spitalul Clinic Municipal Nr. 1",
-                "image": "https://icopil.md/wp-content/uploads/2020/12/54437497_1283589245127590_1842138918095421440_o.jpg",
-                "address": "Strada Melestiu 20, Chișinău, Republica Moldova",
-                "contact": {
-                    "phone": "+373 22 22 31 50",
-                    "email": "scm1@ms.md",
-                    "website": "https://scm1.md"
-                }
-            },
-            {
-                "id": 4,
-                "name": "Institutul Oncologic din Moldova",
-                "image": "https://media.radiochisinau.md/image/202501/640x360/251786-206296.png",
-                "address": "Strada Nicolae Testemițanu 30, MD-2025, Chișinău, Republica Moldova",
-                "contact": {
-                    "phone": "+373 22 852 712",
-                    "email": "info@oncologie.md",
-                    "website": "https://oncologie.md"
-                }
-            }
-        ]
-    },
-    {
         "city": "Orhei",
         "hospitals": [
             {
@@ -125,6 +76,55 @@
                     "phone": "+40 232 930 820",
                     "email": "contact@recuperare-iasi.ro",
                     "website": "https://www.recuperare-iasi.ro"
+                }
+            }
+        ]
+    },
+    {
+        "city": "Chișinău",
+        "hospitals": [
+            {
+                "id": 1,
+                "name": "Spitalul Clinic Republican Timofei Moșneaga",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/T._Mosneaga_Republican_Clinical_Hospital_2023.jpg/500px-T._Mosneaga_Republican_Clinical_Hospital_2023.jpg",
+                "address": "str. Testemițanu 29, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 403 010",
+                    "email": "scr@ms.md",
+                    "website": "https://scr.md"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Institutul de Medicină Urgentă",
+                "image": "https://urgente.usmf.md/sites/default/files/styles/768x430/public/2024-08/img8041t1.jpg.jpeg?itok=slHIxNnY",
+                "address": "str. Toma Ciorbă 1, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 250 290",
+                    "email": "imu@ms.md",
+                    "website": "https://imu.md"
+                }
+            },
+            {
+                "id": 3,
+                "name": "Spitalul Clinic Municipal Nr. 1",
+                "image": "https://icopil.md/wp-content/uploads/2020/12/54437497_1283589245127590_1842138918095421440_o.jpg",
+                "address": "Strada Melestiu 20, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 22 31 50",
+                    "email": "scm1@ms.md",
+                    "website": "https://scm1.md"
+                }
+            },
+            {
+                "id": 4,
+                "name": "Institutul Oncologic din Moldova",
+                "image": "https://media.radiochisinau.md/image/202501/640x360/251786-206296.png",
+                "address": "Strada Nicolae Testemițanu 30, MD-2025, Chișinău, Republica Moldova",
+                "contact": {
+                    "phone": "+373 22 852 712",
+                    "email": "info@oncologie.md",
+                    "website": "https://oncologie.md"
                 }
             }
         ]
